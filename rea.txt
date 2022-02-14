@@ -1,0 +1,2 @@
+c++ file generates mazes and python file interprets mazes 
+into GUI
