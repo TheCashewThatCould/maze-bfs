@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1634053847 source:c:\users\nicho\onedrive\desktop\maze\main.cpp
+	<iostream>
+	<iostream>
+	<math.h>
+	<map>
+	<algorithm>
+	<iterator>
+	<set>
+	<vector>
+	<deque>
+	<iostream>
+	<stack>
+	<string>
+	<sstream>
+
